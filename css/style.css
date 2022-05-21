@@ -462,12 +462,6 @@ input[type="file"] {
 }
 
 @media (max-width: 1066px) {
-    .type-of-licenses-container {
-        margin-bottom: 10px;
-    }
-    h1{
-        margin-bottom: 10px;
-    }
     .main-table {
         width: 1000px;
         min-width: 1000px;
@@ -487,6 +481,12 @@ input[type="file"] {
 }
 
 @media (max-width: 575px) {
+    .type-of-licenses-container {
+        margin-bottom: 10px;
+    }
+    h1 {
+        margin-bottom: 10px;
+    }
     .tabs-section p:not(:last-child) {
         margin-right: 20px;
     }
